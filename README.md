@@ -1,1 +1,2 @@
-# Car-Racing-Game---Alpha--
+# synchronousBallMovement
+Ball moving synchronously
